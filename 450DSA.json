@@ -535,6 +535,12 @@
             "URL": "https://www.geeksforgeeks.org/recursively-print-all-sentences-that-can-be-formed-from-list-of-word-lists/"
         },
         {
+            "Topic:": "String",
+            "Problem: ": "Find the first non-repeating character from a stream of characters",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0"
+        },
+        {
             "Topic:": "Searching & Sorting",
             "Problem: ": "Find first and last positions of an element in a sorted array",
             "Done": "<->",
@@ -960,12 +966,7 @@
             "Done": "<->",
             "URL": "https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1"
         },
-        {
-            "Topic:": "LinkedList",
-            "Problem: ": "Find the first non-repeating character from a stream of characters",
-            "Done": "<->",
-            "URL": "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0"
-        },
+       
         {
             "Topic:": "Binary Trees",
             "Problem: ": "level order traversal",

@@ -727,12 +727,21 @@ export default [
 			},
 			{
 				Topic: "String",
+				Problem: "Find the first non-repeating character from a stream of characters",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0",
+			},
+			{
+				Topic: "String",
 				Problem: "Recursively print all sentences that can be formed from list of word lists",
 				Done: false,
 				Bookmark: false,
 				Notes: "",
 				URL: "https://www.geeksforgeeks.org/recursively-print-all-sentences-that-can-be-formed-from-list-of-word-lists/",
 			},
+			
 		],
 	},
 	{
@@ -1317,14 +1326,7 @@ export default [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1",
 			},
-			{
-				Topic: "LinkedList",
-				Problem: "Find the first non-repeating character from a stream of characters",
-				Done: false,
-				Bookmark: false,
-				Notes: "",
-				URL: "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0",
-			},
+			
 		],
 	},
 	{
